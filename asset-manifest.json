@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6e267674.css",
+    "main.js": "/static/js/main.4bd286d6.js",
+    "static/js/787.d276b9cf.chunk.js": "/static/js/787.d276b9cf.chunk.js",
+    "static/media/bag.png": "/static/media/bag.b24fb367038619a143c4.png",
+    "static/media/bg4.png": "/static/media/bg4.6b7fc9f05046c7444404.png",
+    "static/media/bg5.png": "/static/media/bg5.c1229e8411fe000e9c4e.png",
+    "static/media/bg1.png": "/static/media/bg1.93f4f4ab4ce0ab3cd418.png",
+    "static/media/bg3.png": "/static/media/bg3.9a66b66ae6fa0b612a7a.png",
+    "static/media/bg6.png": "/static/media/bg6.124af17367dfe23eb6e0.png",
+    "static/media/bg2.png": "/static/media/bg2.8091c077e02f72990c1e.png",
+    "static/media/horse.png": "/static/media/horse.9aff2d813c4510ce96e3.png",
+    "static/media/kat8.png": "/static/media/kat8.a566241dcd8a8271e35a.png",
+    "static/media/earfon.png": "/static/media/earfon.654d9cd8f2b2d5c89b41.png",
+    "static/media/gozallik.png": "/static/media/gozallik.70b354044938cd989417.png",
+    "static/media/ball.png": "/static/media/ball.e88dcdeac1f3f28a0fe8.png",
+    "static/media/kat5.png": "/static/media/kat5.15617451b1c16466e478.png",
+    "static/media/kat6.png": "/static/media/kat6.782f9eb3f4618164854b.png",
+    "static/media/tshirt.png": "/static/media/tshirt.8a46641dcadeb997c323.png",
+    "static/media/car.png": "/static/media/car.ceb46de61e24de706130.png",
+    "static/media/kat2.png": "/static/media/kat2.75ef69e9243c026cf270.png",
+    "static/media/kat4.png": "/static/media/kat4.cbf34fa9c96911fb3a00.png",
+    "static/media/salomatlik.png": "/static/media/salomatlik.cd99e9a16fd56496071a.png",
+    "static/media/kat7.png": "/static/media/kat7.a70d298722f7219f9c31.png",
+    "static/media/kat3.png": "/static/media/kat3.3bb8259cf180f823edcd.png",
+    "static/media/blender.png": "/static/media/blender.d57ef90c25028575580e.png",
+    "static/media/shoes.png": "/static/media/shoes.6a409173f01d29e1c2a4.png",
+    "static/media/kat1.png": "/static/media/kat1.6a82b157d8d693a44b86.png",
+    "static/media/paint.webp": "/static/media/paint.338a3b638f4e5d56da3e.webp",
+    "static/media/heart-bubble.svg": "/static/media/heart-bubble.bcb8d1f001166134c889ddb13b8a4c1b.svg",
+    "index.html": "/index.html",
+    "main.6e267674.css.map": "/static/css/main.6e267674.css.map",
+    "main.4bd286d6.js.map": "/static/js/main.4bd286d6.js.map",
+    "787.d276b9cf.chunk.js.map": "/static/js/787.d276b9cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e267674.css",
+    "static/js/main.4bd286d6.js"
+  ]
+}
